@@ -1,5 +1,5 @@
 Powersaving script for **Samsung Series 7 Chronos** laptop.
-Designed for Ubuntu 12.04 Precise Pangolin
+Designed for Ubuntu 12.04 Precise Pangolin.
 
   * Goes in: `/etc/pm/power.d`
 
@@ -15,5 +15,6 @@ Any improvements welcomed!
 This script is licensed WTFPL.  Use at your own risk.
 
 **Charles Phillips**
+
 **doublerebel.com**
 
